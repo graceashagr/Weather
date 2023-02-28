@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="fahrenheit_suffix">°F</string>
+    <string name="celsius_suffix">" °C "</string>
+    <string name="enter_city_name">Enter the city name</string>
+    <string name="city_name">City Name</string>
+    <string name="weather_condition">Weather Condition</string>
+    <string name="temp">Temp</string>
+    <string name="feels_like">Feels like : </string>
+    <string name="feels_like_temp">feels_like_temp</string>
+    <string name="tomorrow_weather_text">Just a place holder for tomorrows weather</string>
+    <string name="hourly_weather_text">Just a place holder for hourly weather</string>
+    <string name="ten_days_weather_text">Just a place holder for next 10 days weather</string>
+    <string name="address_not_found">Address not Found. Please enter a valid Address!</string>
+    <string name="search_icon">search</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="hourly">Hourly</string>
+    <string name="ten_days">Ten Days</string>
+    <string name="weather_fragment_label">WeatherFragment</string>
+    <string name="tomorrow_weather_fragment_label">TomorrowWeatherFragment</string>
+    <string name="hourly_weather_fragment_label">HourlyWeatherFragment</string>
+    <string name="ten_days_weather_fragment">TenDaysWeatherFragment</string>
+    <string name="temp_max">Max : </string>
+    <string name="temp_min">Min : </string>
+    <string name="humidity">Humidity : </string>
+    <string name="wind">Wind : </string>
+    <string name="percentage_suffix">%</string>
+    <string name="speed_suffix"> mph</string>
+    <string name="clear">clear</string>
+    <string name="current_location">current_location</string>
+</resources>

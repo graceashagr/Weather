@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/today"
+        android:id="@+id/today"
+        android:icon="@drawable/ic_today"/>
+    <item android:title="@string/hourly"
+        android:id="@+id/hourly"
+        android:icon="@drawable/ic_hourly"/>
+    <item android:title="@string/tomorrow"
+        android:id="@+id/tommorow"
+        android:icon="@drawable/ic_tommorow"/>
+    <item android:title="@string/ten_days"
+        android:id="@+id/ten_days"
+        android:icon="@drawable/ic_dates"/>
+</menu>
